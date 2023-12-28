@@ -54,7 +54,7 @@ items <- do.call(rbind, info_list)
 items$URL <- df$URL
 
 # API key
-register_google(key = "AIzaSyB2w_v2pM2YEphZ8NCOtOJ9zsQFIplIeD8")
+register_google(key = "ENTER KEY HERE")
 
 # Assuming 'Location' is the column with artifact locations
 items$Location <- as.character(items$Location)
