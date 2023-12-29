@@ -28,4 +28,4 @@ This project is licensed under the MIT License.
 Gelmir by Jonas Lau Markussen (https://gelmir.com/)
 
 ## Contact
-For questions or suggestions, feel free to reach out to Damian Wong at damian.a.wong@gmail.com.
+For questions or suggestions, feel free to reach out to Damian Wong at damian-wong.com.
