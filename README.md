@@ -5,7 +5,7 @@ Explore a cluster map of archaeological artifacts with this simple visualization
 
 The Gelmir Artifact Explorer is a data visualization project aimed at showcasing artifacts from Gelmir by Jonas Lau Markussen. This project utilizes R and leaflet to create an interactive cluster map for exploring various artifacts.
 
-[View Artifact Cluster Map](map.html)
+[View Artifact Cluster Map](https://damianwong01.github.io/Artifact-Cluster-Map/map.html)
 
 ## Data Source
 
